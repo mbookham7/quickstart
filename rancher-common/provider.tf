@@ -54,7 +54,7 @@ provider "rancher2" {
 
 # Rancher2 administration provider
 provider "rancher2" {
-  version = "~> 1.8.1"
+  version = "1.8.1"
 
   alias = "admin"
 
